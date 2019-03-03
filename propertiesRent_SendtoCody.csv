@@ -1,0 +1,228 @@
+title,bedrooms,bathrooms,sqft,price,bedrooms 2,price 2,address,city,state,lat,lon,id,date scraped,url
+Apartment for rent,Studio,1,250,"$1,450 ",,,1129 Torrey Pines Rd APT 11, La Jolla, CA,32843162,-117271181,2115630279,1/20/2019,https://www.zillow.com/homedetails/1129-Torrey-Pines-Rd-APT-11-La-Jolla-CA-92037/2115630279_zpid/
+Apartment for rent,1,1,500,"$1,645 ",,,7623 Eads Ave, La Jolla, CA,32842456,-117275489,2095211064,1/20/2019,https://www.zillow.com/homedetails/7623-Eads-Ave-La-Jolla-CA-92037/2095211064_zpid/
+Apartment for rent,Studio,1,--,"$1,695 ",,,315 Playa Del Sur APT K, La Jolla, CA,32829205,-117278647,2086670158,1/20/2019,https://www.zillow.com/homedetails/315-Playa-Del-Sur-APT-K-La-Jolla-CA-92037/2086670158_zpid/
+Apartment for rent,1,1,--,"$1,695 ",,,7451 La Jolla Blvd APT B, La Jolla, CA,32838571,-117277946,2094266640,1/20/2019,https://www.zillow.com/homedetails/7451-La-Jolla-Blvd-APT-B-La-Jolla-CA-92037/2094266640_zpid/
+Village Square,0,,,"$1,723 ",1,"$1,764+",8683 Via Mallorca, La Jolla, CA,32864953,-117233224,1001482565,1/20/2019,https://www.zillow.com/b/village-square-la-jolla-ca-5XjSbh/
+For Rent,1,,,"$1,795 ",2,"$2,500 ",3056 Via Alicante, La Jolla, CA,32862855,-117235689,32.862855--117.235689,1/20/2019,"https://www.zillow.com/b/3056-Via-Alicante-LA-JOLLA-CA/32.862855,-117.235689_ll/"
+Apartment for rent,1,1,636,"$1,850 ",,,8340 Via Sonoma, La Jolla, CA,32857189,-117232456,2086505745,1/20/2019,https://www.zillow.com/homedetails/8340-Via-Sonoma-La-Jolla-CA-92037/2086505745_zpid/
+Condo for rent,1,1,691,"$1,850 ",,,8532 Via Mallorca UNIT G, La Jolla, CA,32862735,-117233810,16841414,1/20/2019,https://www.zillow.com/homedetails/8532-Via-Mallorca-UNIT-G-La-Jolla-CA-92037/16841414_zpid/
+Apartment for rent,1,1,700,"$1,950 ",,,8545 Villa La Jolla Dr APT B, La Jolla, CA,32863991,-117235124,16841644,1/20/2019,https://www.zillow.com/homedetails/8545-Villa-La-Jolla-Dr-APT-B-La-Jolla-CA-92037/16841644_zpid/
+Apartment for rent,1,1,848,"$2,000 ",,,2600 Torrey Pines Rd, La Jolla, CA,32852002,-117247423,2105328693,1/20/2019,https://www.zillow.com/homedetails/2600-Torrey-Pines-Rd-La-Jolla-CA-92037/2105328693_zpid/
+Apartment for rent,1,1,700,"$2,050 ",,,6662 Electric Ave, La Jolla, CA,32828704,-117276364,2103655239,1/20/2019,https://www.zillow.com/homedetails/6662-Electric-Ave-La-Jolla-CA-92037/2103655239_zpid/
+For Rent,1,,,"$2,250 ",2,"$2,500 ",860 Turquoise St, San Diego, CA,32809137,-117258185,32.809137--117.258185,1/20/2019,"https://www.zillow.com/b/860-Turquoise-St-SAN-DIEGO-CA/32.809137,-117.258185_ll/"
+Townhouse for rent,1,1,"1,061","$2,295 ",,,8668 Villa La Jolla Dr, La Jolla, CA,32866827,-117234647,2086506344,1/20/2019,https://www.zillow.com/homedetails/8668-Villa-La-Jolla-Dr-La-Jolla-CA-92037/2086506344_zpid/
+Apartment for rent,1,1,756,"$2,300 ",,,2368 Torrey Pines Rd UNIT 66, La Jolla, CA,32850990,-117252211,16839349,1/20/2019,https://www.zillow.com/homedetails/2368-Torrey-Pines-Rd-UNIT-66-La-Jolla-CA-92037/16839349_zpid/
+For Rent,1,,,"$2,300 ",2,"$3,250 ",2360 Torrey Pines Rd, La Jolla, CA,32851017,-117252661,32.851017--117.252661,1/20/2019,"https://www.zillow.com/b/2360-Torrey-Pines-Rd-La-Jolla-CA/32.851017,-117.252661_ll/"
+Apartment for rent,2,3,"1,205","$2,400 ",,,8292 Gilman Dr UNIT 51, La Jolla, CA,32855753,-117237866,16840298,1/20/2019,https://www.zillow.com/homedetails/8292-Gilman-Dr-UNIT-51-La-Jolla-CA-92037/16840298_zpid/
+Condo for rent,2,2.5,"1,100","$2,400 ",,,8463 Via Mallorca, La Jolla, CA,32860065,-117233937,2098001767,1/20/2019,https://www.zillow.com/homedetails/8463-Via-Mallorca-La-Jolla-CA-92037/2098001767_zpid/
+Townhouse for rent,1,1,"1,000","$2,450 ",,,336 Playa Del Norte APT C, La Jolla, CA,32829904,-117278485,2106300894,1/20/2019,https://www.zillow.com/homedetails/336-Playa-Del-Norte-APT-C-La-Jolla-CA-92037/2106300894_zpid/
+Condo for rent,2,2.5,"1,074","$2,495 ",,,8441 Via Mallorca UNIT 74, La Jolla, CA,32859582,-117234298,16840521,1/20/2019,https://www.zillow.com/homedetails/8441-Via-Mallorca-UNIT-74-La-Jolla-CA-92037/16840521_zpid/
+Apartment for rent,2,2,"1,017","$2,495 ",,,8420 Via Mallorca UNIT 201, La Jolla, CA,32860574,-117234780,63789906,1/20/2019,https://www.zillow.com/homedetails/8420-Via-Mallorca-UNIT-201-La-Jolla-CA-92037/63789906_zpid/
+Apartment for rent,2,1,600,"$2,500 ",,,2255 Vallecitos, La Jolla, CA,32855407,-117254062,2124819711,1/20/2019,https://www.zillow.com/homedetails/2255-Vallecitos-La-Jolla-CA-92037/2124819711_zpid/
+Apartment for rent,2,2.5,"1,100","$2,500 ",,,8446 Via Sonoma, La Jolla, CA,32859443,-117231961,2091827344,1/20/2019,https://www.zillow.com/homedetails/8446-Via-Sonoma-La-Jolla-CA-92037/2091827344_zpid/
+For Rent,0,,,"$2,500 ",2,"$5,900+",939 Coast Blvd, La Jolla, CA,32847897,-117276197,32.847897--117.276197,1/20/2019,"https://www.zillow.com/b/939-Coast-Blvd-LA-JOLLA-CA/32.847897,-117.276197_ll/"
+Apartment for rent,2,2,978,"$2,500 ",,,3148 Via Alicante UNIT E, La Jolla, CA,32861448,-117234108,16841517,1/20/2019,https://www.zillow.com/homedetails/3148-Via-Alicante-UNIT-E-La-Jolla-CA-92037/16841517_zpid/
+Apartment for rent,1,1,800,"$2,550 ",,,7680 La Jolla Blvd, La Jolla, CA,32841903,-117280378,2086547093,1/20/2019,https://www.zillow.com/homedetails/7680-La-Jolla-Blvd-La-Jolla-CA-92037/2086547093_zpid/
+Apartment for rent,1,1,558,"$2,600 ",,,7514 Girard Ave APT 29, La Jolla, CA,32840716,-117272964,69223341,1/20/2019,https://www.zillow.com/homedetails/7514-Girard-Ave-APT-29-La-Jolla-CA-92037/69223341_zpid/
+House for rent,2,1.5,748,"$2,650 ",,,7510 Draper Ave, San Diego, CA,32839888,-117276546,2131652998,1/20/2019,https://www.zillow.com/homedetails/7510-Draper-Ave-San-Diego-CA-92037/2131652998_zpid/
+Townhouse for rent,2,2,"1,111","$2,795 ",,,3327 Caminito Gandara, La Jolla, CA,32854187,-117234389,16840799,1/20/2019,https://www.zillow.com/homedetails/3327-Caminito-Gandara-La-Jolla-CA-92037/16840799_zpid/
+Apartment for rent,2,2,"1,017","$2,800 ",,,3187 Via Alicante, La Jolla, CA,32860186,-117234888,2115693802,1/20/2019,https://www.zillow.com/homedetails/3187-Via-Alicante-La-Jolla-CA-92037/2115693802_zpid/
+Apartment for rent,1,1,"1,250","$2,850 ",,,7550 Eads Ave UNIT 203, La Jolla, CA,32840626,-117275503,16848694,1/20/2019,https://www.zillow.com/homedetails/7550-Eads-Ave-UNIT-203-La-Jolla-CA-92037/16848694_zpid/
+Condo for rent,2,1,900,"$2,850 ",,,3115 Evening Way, La Jolla, CA,32869183,-117237453,2093326211,1/20/2019,https://www.zillow.com/homedetails/3115-Evening-Way-La-Jolla-CA-92037/2093326211_zpid/
+Apartment for rent,2,2,969,"$2,895 ",,,5538 La Jolla Blvd APT 2C, La Jolla, CA,32812918,-117269176,2102949639,1/20/2019,https://www.zillow.com/homedetails/5538-La-Jolla-Blvd-APT-2C-La-Jolla-CA-92037/2102949639_zpid/
+Apartment for rent,2,2,--,"$2,895 ",,,1135 Torrey Pines Road 2a # 2A, La Jolla, CA,32843277,-117271059,2086431104,1/20/2019,https://www.zillow.com/homedetails/1135-Torrey-Pines-Road-2a-2A-La-Jolla-CA-92037/2086431104_zpid/
+Apartment for rent,2,1,--,"$2,900 ",,,2155 Avenida De La Ribera, La Jolla, CA,32854474,-117256284,2086567497,1/20/2019,https://www.zillow.com/homedetails/2155-Avenida-De-La-Ribera-La-Jolla-CA-92037/2086567497_zpid/
+Apartment for rent,2,2,900,"$2,995 ",,,7517 Herschel Ave APT 6, La Jolla, CA,32841237,-117271202,2123246035,1/20/2019,https://www.zillow.com/homedetails/7517-Herschel-Ave-APT-6-La-Jolla-CA-92037/2123246035_zpid/
+Apartment for rent,Studio,1,719,"$3,000 ",,,La Jolla Blvd, La Jolla, CA,32812060,-117269160,2086820616,1/20/2019,https://www.zillow.com/homedetails/La-Jolla-Blvd-La-Jolla-CA-92037/2086820616_zpid/
+For Rent,2,,,"$3,000 ",3,"$5,000 ",8161 Via Mallorca, La Jolla, CA,32854621,-117234974,32.854621--117.234974,1/20/2019,"https://www.zillow.com/b/8161-Via-Mallorca-LA-JOLLA-CA/32.854621,-117.234974_ll/"
+Condo for rent,2,2.5,"1,074","$3,000 ",,,8470 Via Sonoma UNIT 33, La Jolla, CA,32859921,-117231122,16840746,1/20/2019,https://www.zillow.com/homedetails/8470-Via-Sonoma-UNIT-33-La-Jolla-CA-92037/16840746_zpid/
+Condo for rent,2,2,"1,002","$3,000 ",,,7509 Draper Ave UNIT 200, La Jolla, CA,32840047,-117275855,63656593,1/20/2019,https://www.zillow.com/homedetails/7509-Draper-Ave-UNIT-200-La-Jolla-CA-92037/63656593_zpid/
+Condo for rent,2,2,"1,440","$3,250 ",,,2420 Torrey Pines Rd, La Jolla, CA,32851309,-117250072,16839413,1/20/2019,https://www.zillow.com/homedetails/2420-Torrey-Pines-Rd-La-Jolla-CA-92037/16839413_zpid/
+House for rent,3,2,"1,550","$3,250 ",,,8085 Caminito Mallorca, La Jolla, CA,32859054,-117235382,16841820,1/20/2019,https://www.zillow.com/homedetails/8085-Caminito-Mallorca-La-Jolla-CA-92037/16841820_zpid/
+Apartment for rent,2,2,990,"$3,300 ",,,6455 La Jolla Blvd UNIT 206, La Jolla, CA,32826197,-117276568,16850757,1/20/2019,https://www.zillow.com/homedetails/6455-La-Jolla-Blvd-UNIT-206-La-Jolla-CA-92037/16850757_zpid/
+Townhouse for rent,3,2.5,"1,480","$3,300 ",,,3268 Caminito Ameca, La Jolla, CA,32855778,-117234589,16840361,1/20/2019,https://www.zillow.com/homedetails/3268-Caminito-Ameca-La-Jolla-CA-92037/16840361_zpid/
+Apartment for rent,2,2,770,"$3,395 ",,,407 Bird Rock Ave APT 3F, La Jolla, CA,32815509,-117270229,2119497571,1/20/2019,https://www.zillow.com/homedetails/407-Bird-Rock-Ave-APT-3F-La-Jolla-CA-92037/2119497571_zpid/
+Apartment for rent,2,2,"1,344","$3,425 ",,,2500 Torrey Pines Rd UNIT 801, La Jolla, CA,32851453,-117249634,52513909,1/20/2019,https://www.zillow.com/homedetails/2500-Torrey-Pines-Rd-UNIT-801-La-Jolla-CA-92037/52513909_zpid/
+Apartment for rent,2,2,"1,305","$3,500 ",,,8111 Camino Del Oro APT O, La Jolla, CA,32854591,-117257533,2090156113,1/20/2019,https://www.zillow.com/homedetails/8111-Camino-Del-Oro-APT-O-La-Jolla-CA-92037/2090156113_zpid/
+Apartment for rent,3,2,"1,426","$3,500 ",,,8870 Villa La Jolla Dr UNIT 105, La Jolla, CA,32869813,-117235554,16835933,1/20/2019,https://www.zillow.com/homedetails/8870-Villa-La-Jolla-Dr-UNIT-105-La-Jolla-CA-92037/16835933_zpid/
+House for rent,2,2.5,"1,200","$3,500 ",,,7354 Fay Ave, La Jolla, CA,32838051,-117273390,2096523709,1/20/2019,https://www.zillow.com/homedetails/7354-Fay-Ave-La-Jolla-CA-92037/2096523709_zpid/
+For Rent,1,,,"$3,600 ",2,"$4,000 ",935 Genter St, La Jolla, CA,32836990,-117271815,32.83699--117.271815,1/20/2019,"https://www.zillow.com/b/935-Genter-St-LA-JOLLA-CA/32.83699,-117.271815_ll/"
+Apartment for rent,2,2.5,"1,252","$3,600 ",,,7717 Eads Ave, La Jolla, CA,32843567,-117275722,16848329,1/20/2019,https://www.zillow.com/homedetails/7717-Eads-Ave-La-Jolla-CA-92037/16848329_zpid/
+House for rent,2,1,"1,000","$3,650 ",,,1304 Virginia Way, La Jolla, CA,32844445,-117269119,16848391,1/20/2019,https://www.zillow.com/homedetails/1304-Virginia-Way-La-Jolla-CA-92037/16848391_zpid/
+House for rent,3,2,"1,439","$3,650 ",,,1221 Olivet St, La Jolla, CA,32842970,-117269106,16848766,1/20/2019,https://www.zillow.com/homedetails/1221-Olivet-St-La-Jolla-CA-92037/16848766_zpid/
+House for rent,2,2,"1,700","$3,750 ",,,8440 La Jolla Shores Dr, La Jolla, CA,32860097,-117253785,16838466,1/20/2019,https://www.zillow.com/homedetails/8440-La-Jolla-Shores-Dr-La-Jolla-CA-92037/16838466_zpid/
+Apartment for rent,2,2,"1,107","$3,750 ",,,1039 Coast Blvd S UNIT 1B, La Jolla, CA,32848208,-117274844,2087214818,1/20/2019,https://www.zillow.com/homedetails/1039-Coast-Blvd-S-UNIT-1B-La-Jolla-CA-92037/2087214818_zpid/
+Apartment for rent,2,2,"1,000","$3,800 ",,,356 Playa Del Norte APT 11, La Jolla, CA,32829974,-117278185,16850091,1/20/2019,https://www.zillow.com/homedetails/356-Playa-Del-Norte-APT-11-La-Jolla-CA-92037/16850091_zpid/
+Apartment for rent,3,3,"1,600","$3,850 ",,,910 Turquoise St, San Diego, CA,32809330,-117257279,2086349224,1/20/2019,https://www.zillow.com/homedetails/910-Turquoise-St-San-Diego-CA-92109/2086349224_zpid/
+Apartment for rent,3,3,"1,600","$3,850 ",,,902 Turquoise St # 2, San Diego, CA,32809362,-117257289,2097947552,1/20/2019,https://www.zillow.com/homedetails/902-Turquoise-St-2-San-Diego-CA-92109/2097947552_zpid/
+Ocean House on Prospect Apartment Homes,1,,,"$3,855 ",2,"$4,654+",400 Prospect St, La Jolla, CA,32841976,-117279546,1001635123,1/20/2019,https://www.zillow.com/b/ocean-house-on-prospect-apartment-homes-la-jolla-ca-5Xkm98/
+Apartment for rent,2,2,"1,529","$3,900 ",,,401 Bonair St, La Jolla, CA,32830430,-117277567,83893266,1/20/2019,https://www.zillow.com/homedetails/401-Bonair-St-La-Jolla-CA-92037/83893266_zpid/
+Condo for rent,2,2,"1,241","$3,900 ",,,1115 Pearl St UNIT 8, La Jolla, CA,32840621,-117271010,16849080,1/20/2019,https://www.zillow.com/homedetails/1115-Pearl-St-UNIT-8-La-Jolla-CA-92037/16849080_zpid/
+House for rent,3,2,"1,338","$3,995 ",,,8236 La Jolla Shores Dr, La Jolla, CA,32856262,-117254019,16838825,1/20/2019,https://www.zillow.com/homedetails/8236-La-Jolla-Shores-Dr-La-Jolla-CA-92037/16838825_zpid/
+House for rent,3,2.5,"1,755","$4,000 ",,,6671 La Jolla Scenic Dr S, La Jolla, CA,32836801,-117248622,16852268,1/20/2019,https://www.zillow.com/homedetails/6671-La-Jolla-Scenic-Dr-S-La-Jolla-CA-92037/16852268_zpid/
+Apartment for rent,2,1,864,"$4,000 ",,,215 Bonair St, La Jolla, CA,32829838,-117280133,2106768363,1/20/2019,https://www.zillow.com/homedetails/215-Bonair-St-La-Jolla-CA-92037/2106768363_zpid/
+Apartment for rent,2,1,--,"$4,000 ",,,815 Coast Blvd S # 8155, La Jolla, CA,32845943,-117277276,2086312596,1/20/2019,https://www.zillow.com/homedetails/815-Coast-Blvd-S-8155-La-Jolla-CA-92037/2086312596_zpid/
+House for rent,3,2,948,"$4,100 ",,,5526 Taft Ave, La Jolla, CA,32814036,-117263617,16855999,1/20/2019,https://www.zillow.com/homedetails/5526-Taft-Ave-La-Jolla-CA-92037/16855999_zpid/
+House for rent,3,2,"2,400","$4,200 ",,,La Jolla Blvd, La Jolla, CA,32812570,-117267652,2098148178,1/20/2019,https://www.zillow.com/homedetails/La-Jolla-Blvd-La-Jolla-CA-92037/2098148178_zpid/
+House for rent,2,1,"1,118","$4,200 ",,,5559 Waverly Ave, La Jolla, CA,32814265,-117265790,16855963,1/20/2019,https://www.zillow.com/homedetails/5559-Waverly-Ave-La-Jolla-CA-92037/16855963_zpid/
+House for rent,3,2.5,"2,558","$4,300 ",,,1497 Caminito Solidago, La Jolla, CA,32819986,-117251273,16858244,1/20/2019,https://www.zillow.com/homedetails/1497-Caminito-Solidago-La-Jolla-CA-92037/16858244_zpid/
+House for rent,3,1.5,"1,085","$4,300 ",,,5425 Waverly Ave, La Jolla, CA,32812424,-117263621,16856184,1/20/2019,https://www.zillow.com/homedetails/5425-Waverly-Ave-La-Jolla-CA-92037/16856184_zpid/
+Townhouse for rent,2,3,"1,418","$4,300 ",,,7625 Draper Ave UNIT A, La Jolla, CA,32842376,-117276615,16848636,1/20/2019,https://www.zillow.com/homedetails/7625-Draper-Ave-UNIT-A-La-Jolla-CA-92037/16848636_zpid/
+Townhouse for rent,3,3,"2,148","$4,300 ",,,7931 Caminito Del Cid, La Jolla, CA,32851187,-117251381,2125995717,1/20/2019,https://www.zillow.com/homedetails/7931-Caminito-Del-Cid-La-Jolla-CA-92037/2125995717_zpid/
+House for rent,3,1,"1,214","$4,500 ",,,5165 Crystal Dr, La Jolla, CA,32807637,-117261949,16908081,1/20/2019,https://www.zillow.com/homedetails/5165-Crystal-Dr-La-Jolla-CA-92037/16908081_zpid/
+House for rent,3,2,"1,300","$4,500 ",,,6833 Draper Ave, La Jolla, CA,32831930,-117273816,16850024,1/20/2019,https://www.zillow.com/homedetails/6833-Draper-Ave-La-Jolla-CA-92037/16850024_zpid/
+House for rent,3,3,"1,900","$4,500 ",,,7337 Fay Ave, La Jolla, CA,32837966,-117272688,2101516512,1/20/2019,https://www.zillow.com/homedetails/7337-Fay-Ave-La-Jolla-CA-92037/2101516512_zpid/
+House for rent,3,2,"1,700","$4,500 ",,,8212 La Jolla Shores Dr, La Jolla, CA,32855853,-117254042,16838822,1/20/2019,https://www.zillow.com/homedetails/8212-La-Jolla-Shores-Dr-La-Jolla-CA-92037/16838822_zpid/
+Apartment for rent,2,1,--,"$4,500 ",,,Coast Blvd S, La Jolla, CA,32845750,-117277790,2086324537,1/20/2019,https://www.zillow.com/homedetails/Coast-Blvd-S-La-Jolla-CA-92037/2086324537_zpid/
+House for rent,3,3,"2,183","$4,600 ",,,5832 Caminito Empresa, La Jolla, CA,32820684,-117249902,16858196,1/20/2019,https://www.zillow.com/homedetails/5832-Caminito-Empresa-La-Jolla-CA-92037/16858196_zpid/
+Condo for rent,2,2,"1,477","$4,650 ",,,8263 Camino Del Oro UNIT 475, La Jolla, CA,32855911,-117256048,16838784,1/20/2019,https://www.zillow.com/homedetails/8263-Camino-Del-Oro-UNIT-475-La-Jolla-CA-92037/16838784_zpid/
+House for rent,2,3,"1,510","$4,664 ",,,1225 Silverado St, La Jolla, CA,32846586,-117270845,16848154,1/20/2019,https://www.zillow.com/homedetails/1225-Silverado-St-La-Jolla-CA-92037/16848154_zpid/
+House for rent,3,2.5,"2,550","$4,700 ",,,7709 Ivanhoe Ave, La Jolla, CA,32844515,-117270801,16848367,1/20/2019,https://www.zillow.com/homedetails/7709-Ivanhoe-Ave-La-Jolla-CA-92037/16848367_zpid/
+House for rent,4,3,"2,465","$4,775 ",,,Corona Ct, La Jolla, CA,32821570,-117240760,2087320486,1/20/2019,https://www.zillow.com/homedetails/Corona-Ct-La-Jolla-CA-92037/2087320486_zpid/
+Apartment for rent,2,3,"1,324","$4,795 ",,,7425 Olivetas Ave, La Jolla, CA,32837750,-117279158,2101195942,1/20/2019,https://www.zillow.com/homedetails/7425-Olivetas-Ave-La-Jolla-CA-92037/2101195942_zpid/
+Condo for rent,3,3,"1,954","$4,800 ",,,2035 Caminito Circulo Sur, La Jolla, CA,32821401,-117238278,16857414,1/20/2019,https://www.zillow.com/homedetails/2035-Caminito-Circulo-Sur-La-Jolla-CA-92037/16857414_zpid/
+Apartment for rent,3,2.5,"1,904","$4,900 ",,,354 Kolmar St, La Jolla, CA,32828270,-117277616,55808976,1/20/2019,https://www.zillow.com/homedetails/354-Kolmar-St-La-Jolla-CA-92037/55808976_zpid/
+House for rent,3,2,"1,400","$4,950 ",,,605 Bonair St, La Jolla, CA,32830602,-117274821,16850144,1/20/2019,https://www.zillow.com/homedetails/605-Bonair-St-La-Jolla-CA-92037/16850144_zpid/
+Condo for rent,2,2,"1,200","$4,950 ",,,Coast Blvd S, La Jolla, CA,32848765,-117275189,2101371036,1/20/2019,https://www.zillow.com/homedetails/Coast-Blvd-S-La-Jolla-CA-92037/2101371036_zpid/
+House for rent,3,2,"2,080","$4,995 ",,,7227 Olivetas Ave, La Jolla, CA,32835563,-117278450,16849348,1/20/2019,https://www.zillow.com/homedetails/7227-Olivetas-Ave-La-Jolla-CA-92037/16849348_zpid/
+Apartment for rent,2,2,"1,215","$4,995 ",,,Coast Blvd S, San Diego, CA,32846640,-117277230,2086820606,1/20/2019,https://www.zillow.com/homedetails/Coast-Blvd-S-San-Diego-CA-92037/2086820606_zpid/
+Apartment for rent,2,2.5,"1,297","$4,995 ",,,7423 Olivetas Ave, La Jolla, CA,32837863,-117279008,2087397225,1/20/2019,https://www.zillow.com/homedetails/7423-Olivetas-Ave-La-Jolla-CA-92037/2087397225_zpid/
+House for rent,3,2,"1,908","$5,000 ",,,5384 La Jolla Mesa Dr, La Jolla, CA,32812116,-117260590,16856263,1/20/2019,https://www.zillow.com/homedetails/5384-La-Jolla-Mesa-Dr-La-Jolla-CA-92037/16856263_zpid/
+Townhouse for rent,4,2.5,"1,824","$5,000 ",,,8725 Caminito Abrazo, La Jolla, CA,32866197,-117239116,16836061,1/20/2019,https://www.zillow.com/homedetails/8725-Caminito-Abrazo-La-Jolla-CA-92037/16836061_zpid/
+House for rent,1,1,440,"$5,000 ",,,8038 La Jolla Shores Dr, La Jolla, CA,32853160,-117254195,63789853,1/20/2019,https://www.zillow.com/homedetails/8038-La-Jolla-Shores-Dr-La-Jolla-CA-92037/63789853_zpid/
+For Rent,2,,,"$5,000 ",3,"$10,000 ",8263 Camino Del Oro, La Jolla, CA,32855244,-117256244,32.855244--117.256244,1/20/2019,"https://www.zillow.com/b/8263-Camino-Del-Oro-LA-JOLLA-CA/32.855244,-117.256244_ll/"
+House for rent,3,2,"2,200","$5,200 ",,,952 La Jolla Rancho Rd, La Jolla, CA,32819816,-117263876,16855330,1/20/2019,https://www.zillow.com/homedetails/952-La-Jolla-Rancho-Rd-La-Jolla-CA-92037/16855330_zpid/
+House for rent,4,2.5,"1,500","$5,200 ",,,6425 Electric Ave, La Jolla, CA,32826088,-117275622,2109444573,1/20/2019,https://www.zillow.com/homedetails/6425-Electric-Ave-La-Jolla-CA-92037/2109444573_zpid/
+House for rent,4,3,"2,053","$5,400 ",,,516 Bonair Pl, La Jolla, CA,32830118,-117275662,61239764,1/20/2019,https://www.zillow.com/homedetails/516-Bonair-Pl-La-Jolla-CA-92037/61239764_zpid/
+House for rent,3,2.5,"2,186","$5,450 ",,,7556 Pepita Way, La Jolla, CA,32843009,-117267799,16849036,1/20/2019,https://www.zillow.com/homedetails/7556-Pepita-Way-La-Jolla-CA-92037/16849036_zpid/
+House for rent,4,2.5,"2,007","$5,495 ",,,2826 Palomino Cir, La Jolla, CA,32827796,-117238283,16856942,1/20/2019,https://www.zillow.com/homedetails/2826-Palomino-Cir-La-Jolla-CA-92037/16856942_zpid/
+House for rent,2,2,"1,190","$5,500 ",,,307 Prospect St, La Jolla, CA,32840350,-117279906,16848627,1/20/2019,https://www.zillow.com/homedetails/307-Prospect-St-La-Jolla-CA-92037/16848627_zpid/
+Condo for rent,2,2,"1,469","$5,575 ",,,320 Prospect St, La Jolla, CA,32840955,-117280285,16848576,1/20/2019,https://www.zillow.com/homedetails/320-Prospect-St-La-Jolla-CA-92037/16848576_zpid/
+House for rent,3,2,"1,748","$5,600 ",,,902 Newkirk Dr, La Jolla, CA,32824390,-117269680,16854807,1/20/2019,https://www.zillow.com/homedetails/902-Newkirk-Dr-La-Jolla-CA-92037/16854807_zpid/
+House for rent,2,2,"1,200","$5,800 ",,,1657 Kearsarge Rd, La Jolla, CA,32845551,-117263048,16848465,1/20/2019,https://www.zillow.com/homedetails/1657-Kearsarge-Rd-La-Jolla-CA-92037/16848465_zpid/
+House for rent,3,2,"1,706","$5,995 ",,,5770 5770 Bellevue Ave, La Jolla, CA,32817833,-117267972,2086489471,1/20/2019,https://www.zillow.com/homedetails/5770-5770-Bellevue-Ave-La-Jolla-CA-92037/2086489471_zpid/
+Townhouse for rent,2,2,"2,038","$5,995 ",,,Draper Ave, La Jolla, CA,32837030,-117275650,2086820610,1/20/2019,https://www.zillow.com/homedetails/Draper-Ave-La-Jolla-CA-92037/2086820610_zpid/
+Apartment for rent,3,2.5,"1,432","$5,995 ",,,7419 Olivetas Ave, La Jolla, CA,32837669,-117279132,2087399591,1/20/2019,https://www.zillow.com/homedetails/7419-Olivetas-Ave-La-Jolla-CA-92037/2087399591_zpid/
+House for rent,3,1,"1,088","$6,000 ",,,5666 Beaumont Ave, La Jolla, CA,32815541,-117268673,16855678,1/20/2019,https://www.zillow.com/homedetails/5666-Beaumont-Ave-La-Jolla-CA-92037/16855678_zpid/
+House for rent,4,2.5,"2,600","$6,000 ",,,7855 Calle Juela, La Jolla, CA,32849818,-117254663,16839290,1/20/2019,https://www.zillow.com/homedetails/7855-Calle-Juela-La-Jolla-CA-92037/16839290_zpid/
+House for rent,3,3,"2,469","$6,000 ",,,7090 Camto La Benera, San Diego, CA,32844700,-117253600,2086427950,1/20/2019,https://www.zillow.com/homedetails/7090-Camto-La-Benera-San-Diego-CA-92037/2086427950_zpid/
+House for rent,3,3,"2,446","$6,200 ",,,1327 Torrey Pines Rd, La Jolla, CA,32845041,-117269181,52514170,1/20/2019,https://www.zillow.com/homedetails/1327-Torrey-Pines-Rd-La-Jolla-CA-92037/52514170_zpid/
+House for rent,4,3,"2,525","$6,350 ",,,838 Lamplight Dr, La Jolla, CA,32814543,-117259070,16856321,1/20/2019,https://www.zillow.com/homedetails/838-Lamplight-Dr-La-Jolla-CA-92037/16856321_zpid/
+For Rent,2,,,"$6,500 ",3,"$6,495 ",7834 Ivanhoe Ave, La Jolla, CA,32846153,-117272094,32.846153--117.272094,1/20/2019,"https://www.zillow.com/b/7834-Ivanhoe-Ave-LA-JOLLA-CA/32.846153,-117.272094_ll/"
+House for rent,6,3,"2,700","$6,500 ",,,420 Midway St, La Jolla, CA,32812776,-117267719,16855910,1/20/2019,https://www.zillow.com/homedetails/420-Midway-St-La-Jolla-CA-92037/16855910_zpid/
+House for rent,5,3.5,"3,350","$6,500 ",,,1790 Nautilus St, La Jolla, CA,32831409,-117257484,16851939,1/20/2019,https://www.zillow.com/homedetails/1790-Nautilus-St-La-Jolla-CA-92037/16851939_zpid/
+House for rent,4,2,"2,453","$6,500 ",,,5560 Candlelight Dr, La Jolla, CA,32816290,-117258342,16856331,1/20/2019,https://www.zillow.com/homedetails/5560-Candlelight-Dr-La-Jolla-CA-92037/16856331_zpid/
+House for rent,4,3.5,"2,717","$6,600 ",,,536 Sea Ln, La Jolla, CA,32836888,-117277355,59310451,1/20/2019,https://www.zillow.com/homedetails/536-Sea-Ln-La-Jolla-CA-92037/59310451_zpid/
+House for rent,4,3,"2,878","$6,800 ",,,1442 Calle Altura, La Jolla, CA,32815143,-117255291,16857200,1/20/2019,https://www.zillow.com/homedetails/1442-Calle-Altura-La-Jolla-CA-92037/16857200_zpid/
+Condo for rent,2,2.5,"1,648","$6,900 ",,,265 Coast Blvd UNIT 10, La Jolla, CA,32840395,-117281140,16848574,1/20/2019,https://www.zillow.com/homedetails/265-Coast-Blvd-UNIT-10-La-Jolla-CA-92037/16848574_zpid/
+House for rent,3,2.5,"1,366","$6,900 ",,,7988 Roseland Dr, La Jolla, CA,32851794,-117260047,16839170,1/20/2019,https://www.zillow.com/homedetails/7988-Roseland-Dr-La-Jolla-CA-92037/16839170_zpid/
+House for rent,3,2,"1,191","$6,995 ",,,371 Nautilus St, La Jolla, CA,32831215,-117278211,66656299,1/20/2019,https://www.zillow.com/homedetails/371-Nautilus-St-La-Jolla-CA-92037/66656299_zpid/
+Condo for rent,2,2,"1,115","$6,995 ",,,1219 Coast Blvd UNIT 3, La Jolla, CA,32849724,-117271836,16847889,1/20/2019,https://www.zillow.com/homedetails/1219-Coast-Blvd-UNIT-3-La-Jolla-CA-92037/16847889_zpid/
+House for rent,3,2,"1,890","$7,000 ",,,7788 Sierra Mar Dr, La Jolla, CA,32848579,-117261486,16848111,1/20/2019,https://www.zillow.com/homedetails/7788-Sierra-Mar-Dr-La-Jolla-CA-92037/16848111_zpid/
+House for rent,2,2,"1,090","$7,000 ",,,1665 Kearsarge Rd, La Jolla, CA,32845661,-117262921,16848466,1/20/2019,https://www.zillow.com/homedetails/1665-Kearsarge-Rd-La-Jolla-CA-92037/16848466_zpid/
+House for rent,1,1,528,"$7,100 ",,,8003 Ocean Ln, La Jolla, CA,32847866,-117275201,65398464,1/20/2019,https://www.zillow.com/homedetails/8003-Ocean-Ln-La-Jolla-CA-92037/65398464_zpid/
+House for rent,2,3,--,"$7,495 ",,,5662 Dolphin Pl, La Jolla, CA,32814314,-117272556,16855595,1/20/2019,https://www.zillow.com/homedetails/5662-Dolphin-Pl-La-Jolla-CA-92037/16855595_zpid/
+House for rent,2,2,"1,213","$7,500 ",,,370 Nautilus St, La Jolla, CA,32831667,-117278379,2104001888,1/20/2019,https://www.zillow.com/homedetails/370-Nautilus-St-La-Jolla-CA-92037/2104001888_zpid/
+House for rent,3,2,"2,428","$7,500 ",,,1114 Skylark Dr, La Jolla, CA,32816439,-117260695,16855847,1/20/2019,https://www.zillow.com/homedetails/1114-Skylark-Dr-La-Jolla-CA-92037/16855847_zpid/
+House for rent,3,3.5,"2,449","$7,500 ",,,2569 Hidden Valley Rd, La Jolla, CA,32847453,-117252447,16851334,1/20/2019,https://www.zillow.com/homedetails/2569-Hidden-Valley-Rd-La-Jolla-CA-92037/16851334_zpid/
+House for rent,3,2.5,"1,971","$7,500 ",,,7967 Paseo Del Ocaso, La Jolla, CA,32851917,-117254692,16839260,1/20/2019,https://www.zillow.com/homedetails/7967-Paseo-Del-Ocaso-La-Jolla-CA-92037/16839260_zpid/
+House for rent,5,4,"3,428","$7,500 ",,,8505 Nottingham Pl, La Jolla, CA,32861525,-117241802,16839873,1/20/2019,https://www.zillow.com/homedetails/8505-Nottingham-Pl-La-Jolla-CA-92037/16839873_zpid/
+Condo for rent,2,2,"1,673","$7,500 ",,,7555 Eads Ave UNIT 1, La Jolla, CA,32841118,-117274920,63061469,1/20/2019,https://www.zillow.com/homedetails/7555-Eads-Ave-UNIT-1-La-Jolla-CA-92037/63061469_zpid/
+House for rent,6,4,"3,400","$7,500 ",,,2139 Torrey Pines Rd, La Jolla, CA,32850203,-117254553,61239748,1/20/2019,https://www.zillow.com/homedetails/2139-Torrey-Pines-Rd-La-Jolla-CA-92037/61239748_zpid/
+Townhouse for rent,2,2.5,"1,921","$7,500 ",,,Coast Blvd, La Jolla, CA,32848570,-117275910,2089585471,1/20/2019,https://www.zillow.com/homedetails/Coast-Blvd-La-Jolla-CA-92037/2089585471_zpid/
+For Rent,1,,,"$7,500 ",2,"$10,000 ",7824 Girard Ave, La Jolla, CA,32845540,-117274529,2079483396,1/20/2019,"https://www.zillow.com/b/7824-Girard-Ave-La-Jolla-CA/32.84554,-117.274529_ll/"
+Townhouse for rent,3,3,"1,380","$7,900 ",,,366 Forward St APT F, La Jolla, CA,32813918,-117269967,61680318,1/20/2019,https://www.zillow.com/homedetails/366-Forward-St-APT-F-La-Jolla-CA-92037/61680318_zpid/
+House for rent,5,3,"3,280","$8,000 ",,,Via Anita, La Jolla, CA,32825670,-117247180,2086512849,1/20/2019,https://www.zillow.com/homedetails/Via-Anita-La-Jolla-CA-92037/2086512849_zpid/
+Condo for rent,2,2,"2,115","$8,000 ",,,1001 Genter St UNIT 1I, La Jolla, CA,32836669,-117271026,16849587,1/20/2019,https://www.zillow.com/homedetails/1001-Genter-St-UNIT-1I-La-Jolla-CA-92037/16849587_zpid/
+House for rent,3,2,"1,353","$8,000 ",,,7623 Mar Ave, La Jolla, CA,32843198,-117267940,16848777,1/20/2019,https://www.zillow.com/homedetails/7623-Mar-Ave-La-Jolla-CA-92037/16848777_zpid/
+House for rent,3,3,"2,259","$8,500 ",,,5396 Chelsea St, La Jolla, CA,32810355,-117267817,16907449,1/20/2019,https://www.zillow.com/homedetails/5396-Chelsea-St-La-Jolla-CA-92037/16907449_zpid/
+House for rent,4,3,"2,450","$8,500 ",,,8279 Camino Del Oro, La Jolla, CA,32856248,-117256360,2103871887,1/20/2019,https://www.zillow.com/homedetails/8279-Camino-Del-Oro-La-Jolla-CA-92037/2103871887_zpid/
+Condo for rent,2,2,"1,390","$8,500 ",,,1039 Coast Blvd UNIT F, La Jolla, CA,32848736,-117275146,16847819,1/20/2019,https://www.zillow.com/homedetails/1039-Coast-Blvd-UNIT-F-La-Jolla-CA-92037/16847819_zpid/
+House for rent,3,2,"1,685","$8,500 ",,,8433 El Paseo Grande, La Jolla, CA,32859413,-117255032,16838429,1/20/2019,https://www.zillow.com/homedetails/8433-El-Paseo-Grande-La-Jolla-CA-92037/16838429_zpid/
+House for rent,4,2,"2,012","$8,700 ",,,Muirlands Vista Way, La Jolla, CA,32826020,-117269460,2088530983,1/20/2019,https://www.zillow.com/homedetails/Muirlands-Vista-Way-La-Jolla-CA-92037/2088530983_zpid/
+House for rent,2,2,"1,010","$8,800 ",,,339 Rosemont St, La Jolla, CA,32827219,-117277555,72149192,1/20/2019,https://www.zillow.com/homedetails/339-Rosemont-St-La-Jolla-CA-92037/72149192_zpid/
+Townhouse for rent,3,2,"1,488","$8,800 ",,,8121 Camino Del Sol UNIT 101, La Jolla, CA,32854622,-117256467,16838894,1/20/2019,https://www.zillow.com/homedetails/8121-Camino-Del-Sol-UNIT-101-La-Jolla-CA-92037/16838894_zpid/
+House for rent,4,4,"2,750","$9,000 ",,,5795 Waverly Ave, La Jolla, CA,32818253,-117269062,16855310,1/20/2019,https://www.zillow.com/homedetails/5795-Waverly-Ave-La-Jolla-CA-92037/16855310_zpid/
+Townhouse for rent,2,2.5,"2,240","$9,000 ",,,6639 La Jolla Blvd, La Jolla, CA,32828273,-117276698,2101156624,1/20/2019,https://www.zillow.com/homedetails/6639-La-Jolla-Blvd-La-Jolla-CA-92037/2101156624_zpid/
+For Rent,2,,,"$9,000 ",3,"$20,000 ",6722 Vista Del Mar Ave, La Jolla, CA,32828904,-117279864,32.828904--117.279864,1/20/2019,"https://www.zillow.com/b/6722-Vista-Del-Mar-Ave-LA-JOLLA-CA/32.828904,-117.279864_ll/"
+House for rent,4,3,"2,528","$9,000 ",,,8320 La Jolla Shores Dr, La Jolla, CA,32857804,-117253930,16838618,1/20/2019,https://www.zillow.com/homedetails/8320-La-Jolla-Shores-Dr-La-Jolla-CA-92037/16838618_zpid/
+House for rent,4,3,"2,276","$9,000 ",,,8330 Prestwick Dr, La Jolla, CA,32857774,-117247909,16838669,1/20/2019,https://www.zillow.com/homedetails/8330-Prestwick-Dr-La-Jolla-CA-92037/16838669_zpid/
+House for rent,4,6,"2,714","$9,000 ",,,8294 Prestwick Dr, La Jolla, CA,32856935,-117247619,16838672,1/20/2019,https://www.zillow.com/homedetails/8294-Prestwick-Dr-La-Jolla-CA-92037/16838672_zpid/
+House for rent,5,4,"4,000","$9,500 ",,,5413 Avenida Fiesta, La Jolla, CA,32818474,-117232003,16857088,1/20/2019,https://www.zillow.com/homedetails/5413-Avenida-Fiesta-La-Jolla-CA-92037/16857088_zpid/
+House for rent,3,3,"1,800","$9,500 ",,,445 Coast Blvd, La Jolla, CA,32842624,-117279118,2086393761,1/20/2019,https://www.zillow.com/homedetails/445-Coast-Blvd-La-Jolla-CA-92037/2086393761_zpid/
+House for rent,4,3.5,"3,281","$9,500 ",,,8414 Avenida De Las Ondas, La Jolla, CA,32859834,-117251383,16838554,1/20/2019,https://www.zillow.com/homedetails/8414-Avenida-De-Las-Ondas-La-Jolla-CA-92037/16838554_zpid/
+House for rent,2,1,"1,000","$10,000 ",,,531 Sea Ln, La Jolla, CA,32836421,-117277396,2104454213,1/20/2019,https://www.zillow.com/homedetails/531-Sea-Ln-La-Jolla-CA-92037/2104454213_zpid/
+House for rent,4,4.5,"3,901","$10,000 ",,,257 Playa Del Sur, La Jolla, CA,32829051,-117279067,16850128,1/20/2019,https://www.zillow.com/homedetails/257-Playa-Del-Sur-La-Jolla-CA-92037/16850128_zpid/
+House for rent,3,3,"1,800","$10,000 ",,,7745 Herschel Ave, La Jolla, CA,32844834,-117272210,2117377699,1/20/2019,https://www.zillow.com/homedetails/7745-Herschel-Ave-La-Jolla-CA-92037/2117377699_zpid/
+Condo for rent,2,2,"1,000","$10,000 ",,,8155 Camino Del Oro, La Jolla, CA,32855027,-117257141,16838892,1/20/2019,https://www.zillow.com/homedetails/8155-Camino-Del-Oro-La-Jolla-CA-92037/16838892_zpid/
+House for rent,3,2.5,"2,367","$10,000 ",,,7465 Draper Ave, La Jolla, CA,32839311,-117275623,16848954,1/20/2019,https://www.zillow.com/homedetails/7465-Draper-Ave-La-Jolla-CA-92037/16848954_zpid/
+House for rent,3,3.5,"3,400","$10,000 ",,,1506 Kearsarge Rd, La Jolla, CA,32844247,-117265390,16848799,1/20/2019,https://www.zillow.com/homedetails/1506-Kearsarge-Rd-La-Jolla-CA-92037/16848799_zpid/
+Condo for rent,2,2,927,"$10,000 ",,,457 Coast Blvd UNIT 303, La Jolla, CA,32843201,-117280089,16848295,1/20/2019,https://www.zillow.com/homedetails/457-Coast-Blvd-UNIT-303-La-Jolla-CA-92037/16848295_zpid/
+House for rent,3,2.5,"1,800","$10,500 ",,,5787 Waverly Ave, La Jolla, CA,32818174,-117268811,16855311,1/20/2019,https://www.zillow.com/homedetails/5787-Waverly-Ave-La-Jolla-CA-92037/16855311_zpid/
+House for rent,5,5.5,"3,800","$10,500 ",,,1518 Bluebird Ln, La Jolla, CA,32847302,-117266739,25777247,1/20/2019,https://www.zillow.com/homedetails/1518-Bluebird-Ln-La-Jolla-CA-92037/25777247_zpid/
+House for rent,3,2.5,"1,920","$11,000 ",,,542 Westbourne St, La Jolla, CA,32833419,-117276033,16849811,1/20/2019,https://www.zillow.com/homedetails/542-Westbourne-St-La-Jolla-CA-92037/16849811_zpid/
+House for rent,4,4,"3,100","$11,500 ",,,317 Bandera St, La Jolla, CA,32808607,-117267112,16907542,1/20/2019,https://www.zillow.com/homedetails/317-Bandera-St-La-Jolla-CA-92037/16907542_zpid/
+House for rent,3,3,"2,568","$11,500 ",,,1288 Silverado St, La Jolla, CA,32847572,-117270387,16848023,1/20/2019,https://www.zillow.com/homedetails/1288-Silverado-St-La-Jolla-CA-92037/16848023_zpid/
+For Rent,2,,,"$12,000 ",3,"$6,800 ",225 Bonair St, La Jolla, CA,32829894,-117279882,32.829894--117.279882,1/20/2019,"https://www.zillow.com/b/225-Bonair-St-LA-JOLLA-CA/32.829894,-117.279882_ll/"
+House for rent,4,3.5,"3,605","$12,000 ",,,6260 Waverly Ave, La Jolla, CA,32824886,-117273012,16850986,1/20/2019,https://www.zillow.com/homedetails/6260-Waverly-Ave-La-Jolla-CA-92037/16850986_zpid/
+House for rent,4,4,"3,268","$12,000 ",,,Vista De La Mesa, La Jolla, CA,32820980,-117275190,2088743981,1/20/2019,https://www.zillow.com/homedetails/Vista-De-La-Mesa-La-Jolla-CA-92037/2088743981_zpid/
+Apartment for rent,2,2,"1,000","$12,000 ",,,616 Prospect St APT 19, La Jolla, CA,32843795,-117278332,2101702560,1/20/2019,https://www.zillow.com/homedetails/616-Prospect-St-APT-19-La-Jolla-CA-92037/2101702560_zpid/
+House for rent,5,3,"3,515","$12,000 ",,,2585 Hidden Valley Rd, La Jolla, CA,32847246,-117252026,16851335,1/20/2019,https://www.zillow.com/homedetails/2585-Hidden-Valley-Rd-La-Jolla-CA-92037/16851335_zpid/
+House for rent,5,5,"2,975","$12,000 ",,,9776 Claiborne Sq, La Jolla, CA,32882761,-117245566,17204117,1/20/2019,https://www.zillow.com/homedetails/9776-Claiborne-Sq-La-Jolla-CA-92037/17204117_zpid/
+Condo for rent,2,2,"1,456","$12,000 ",,,373 Coast Blvd S UNIT 2, La Jolla, CA,32841782,-117280397,16848472,1/20/2019,https://www.zillow.com/homedetails/373-Coast-Blvd-S-UNIT-2-La-Jolla-CA-92037/16848472_zpid/
+House for rent,3,1.5,"1,250","$12,200 ",,,530 Genter St, La Jolla, CA,32836396,-117277388,2090892435,1/20/2019,https://www.zillow.com/homedetails/530-Genter-St-La-Jolla-CA-92037/2090892435_zpid/
+House for rent,5,5,"3,285","$13,995 ",,,7911 El Paseo Grande, La Jolla, CA,32851734,-117255779,16839232,1/20/2019,https://www.zillow.com/homedetails/7911-El-Paseo-Grande-La-Jolla-CA-92037/16839232_zpid/
+House for rent,3,2,"1,600","$14,000 ",,,2232 Vallecitos, La Jolla, CA,32855649,-117254427,16838820,1/20/2019,https://www.zillow.com/homedetails/2232-Vallecitos-La-Jolla-CA-92037/16838820_zpid/
+House for rent,3,3,"2,170","$15,000 ",,,232 Rosemont St, La Jolla, CA,32827258,-117278981,16850323,1/20/2019,https://www.zillow.com/homedetails/232-Rosemont-St-La-Jolla-CA-92037/16850323_zpid/
+House for rent,4,3,"1,899","$15,000 ",,,Fay Ave, La Jolla, CA,32837170,-117272740,2086791952,1/20/2019,https://www.zillow.com/homedetails/Fay-Ave-La-Jolla-CA-92037/2086791952_zpid/
+House for rent,4,4.5,"2,322","$15,000 ",,,8001 Calle De La Plata, La Jolla, CA,32852702,-117256158,16839012,1/20/2019,https://www.zillow.com/homedetails/8001-Calle-De-La-Plata-La-Jolla-CA-92037/16839012_zpid/
+House for rent,5,4,"3,667","$15,000 ",,,2075 Torrey Pines Rd, La Jolla, CA,32849790,-117255754,16839277,1/20/2019,https://www.zillow.com/homedetails/2075-Torrey-Pines-Rd-La-Jolla-CA-92037/16839277_zpid/
+House for rent,2,2,"1,584","$15,400 ",,,448 Sea Ln, La Jolla, CA,32836497,-117278753,16849151,1/20/2019,https://www.zillow.com/homedetails/448-Sea-Ln-La-Jolla-CA-92037/16849151_zpid/
+House for rent,4,4,"2,426","$16,000 ",,,1131 Avenida Amantea, La Jolla, CA,32818469,-117260987,16855576,1/20/2019,https://www.zillow.com/homedetails/1131-Avenida-Amantea-La-Jolla-CA-92037/16855576_zpid/
+House for rent,5,4.5,"5,696","$16,500 ",,,7712 Moonridge Pl, La Jolla, CA,32847650,-117243887,16839780,1/20/2019,https://www.zillow.com/homedetails/7712-Moonridge-Pl-La-Jolla-CA-92037/16839780_zpid/
+House for rent,4,6.5,"4,900","$17,000 ",,,6352 Castejon Dr, La Jolla, CA,32831116,-117249741,16851838,1/20/2019,https://www.zillow.com/homedetails/6352-Castejon-Dr-La-Jolla-CA-92037/16851838_zpid/
+House for rent,3,3.5,"2,814","$18,000 ",,,Country Club Dr, La Jolla, CA,32844769,-117266680,2091900726,1/20/2019,https://www.zillow.com/homedetails/Country-Club-Dr-La-Jolla-CA-92037/2091900726_zpid/
+House for rent,3,4,"3,100","$19,975 ",,,1496 Vista Claridad, La Jolla, CA,32818219,-117256855,16857711,1/20/2019,https://www.zillow.com/homedetails/1496-Vista-Claridad-La-Jolla-CA-92037/16857711_zpid/
+House for rent,5,5.5,"5,700","$19,995 ",,,9519 La Jolla Farms Rd, La Jolla, CA,32878509,-117244254,16834471,1/20/2019,https://www.zillow.com/homedetails/9519-La-Jolla-Farms-Rd-La-Jolla-CA-92037/16834471_zpid/
+House for rent,5,5,"5,062","$19,995 ",,,9805 Black Gold Rd, La Jolla, CA,32885576,-117245653,16834388,1/20/2019,https://www.zillow.com/homedetails/9805-Black-Gold-Rd-La-Jolla-CA-92037/16834388_zpid/
+Apartment for rent,3,2,"1,859","$20,000 ",,,5366 Chelsea St, La Jolla, CA,32810025,-117267080,16907463,1/20/2019,https://www.zillow.com/homedetails/5366-Chelsea-St-La-Jolla-CA-92037/16907463_zpid/
+House for rent,6,5,"5,006","$20,000 ",,,(undisclosed Address), La Jolla, CA,32844920,-117261575,2143903777,1/20/2019,https://www.zillow.com/homedetails/(undisclosed-Address)-La-Jolla-CA-92037/2143903777_zpid/
+House for rent,5,3,"2,000","$20,000 ",,,8733 Dunaway Dr, La Jolla, CA,32865457,-117243559,16834993,1/20/2019,https://www.zillow.com/homedetails/8733-Dunaway-Dr-La-Jolla-CA-92037/16834993_zpid/
+House for rent,3,2,"1,350","$20,500 ",,,7272 Dune Ln, La Jolla, CA,32835715,-117280076,16849329,1/20/2019,https://www.zillow.com/homedetails/7272-Dune-Ln-La-Jolla-CA-92037/16849329_zpid/
+House for rent,3,2.5,"2,467","$22,000 ",,,292 Bonair St, La Jolla, CA,32830550,-117279284,16849865,1/20/2019,https://www.zillow.com/homedetails/292-Bonair-St-La-Jolla-CA-92037/16849865_zpid/
+Apartment for rent,5,5,"5,516","$22,000 ",,,6209 Camino De La Costa, La Jolla, CA,32821603,-117279311,16854692,1/20/2019,https://www.zillow.com/homedetails/6209-Camino-De-La-Costa-La-Jolla-CA-92037/16854692_zpid/
+House for rent,4,3,"2,351","$22,000 ",,,1740 Torrey Pines Rd, La Jolla, CA,32849033,-117263042,16848098,1/20/2019,https://www.zillow.com/homedetails/1740-Torrey-Pines-Rd-La-Jolla-CA-92037/16848098_zpid/
+House for rent,4,3,"2,167","$23,000 ",,,7228 Monte Vista Ave, La Jolla, CA,32835233,-117279669,16849326,1/20/2019,https://www.zillow.com/homedetails/7228-Monte-Vista-Ave-La-Jolla-CA-92037/16849326_zpid/
+Condo for rent,3,3,"1,910","$24,070 ",,,6767 Neptune Pl UNIT 102, La Jolla, CA,32829292,-117280082,124865919,1/20/2019,https://www.zillow.com/homedetails/6767-Neptune-Pl-UNIT-102-La-Jolla-CA-92037/124865919_zpid/
+House for rent,4,3,"2,519","$25,000 ",,,6933 Neptune Pl, La Jolla, CA,32831622,-117280634,16849828,1/20/2019,https://www.zillow.com/homedetails/6933-Neptune-Pl-La-Jolla-CA-92037/16849828_zpid/
+House for rent,5,3.5,"4,067","$25,000 ",,,8230 Prestwick Dr, La Jolla, CA,32855877,-117247587,16838858,1/20/2019,https://www.zillow.com/homedetails/8230-Prestwick-Dr-La-Jolla-CA-92037/16838858_zpid/
+House for rent,5,4.5,"4,280","$26,975 ",,,1538 Vista Claridad, La Jolla, CA,32817774,-117256727,16857708,1/20/2019,https://www.zillow.com/homedetails/1538-Vista-Claridad-La-Jolla-CA-92037/16857708_zpid/
+House for rent,3,2,"1,281","$28,000 ",,,324 Belvedere St, La Jolla, CA,32833081,-117279924,16849739,1/20/2019,https://www.zillow.com/homedetails/324-Belvedere-St-La-Jolla-CA-92037/16849739_zpid/
+House for rent,4,3,"2,400","$28,000 ",,,1151 Via Angelina, La Jolla, CA,32828985,-117269017,16851023,1/20/2019,https://www.zillow.com/homedetails/1151-Via-Angelina-La-Jolla-CA-92037/16851023_zpid/
+House for rent,4,7,"11,196","$35,000 ",,,5806 Bucknell Ave, La Jolla, CA,32820965,-117253399,16856620,1/20/2019,https://www.zillow.com/homedetails/5806-Bucknell-Ave-La-Jolla-CA-92037/16856620_zpid/
+House for rent,4,5,"3,500","$35,000 ",,,2264 Paseo Dorado, La Jolla, CA,32852784,-117252707,16839058,1/20/2019,https://www.zillow.com/homedetails/2264-Paseo-Dorado-La-Jolla-CA-92037/16839058_zpid/
+House for rent,5,4.5,"6,000","$45,000 ",,,7350 Brodiaea Way, La Jolla, CA,32841726,-117260127,16851505,1/20/2019,https://www.zillow.com/homedetails/7350-Brodiaea-Way-La-Jolla-CA-92037/16851505_zpid/
+House for rent,6,5,"4,408","$48,000 ",,,8425 La Jolla Scenic Dr N, La Jolla, CA,32859902,-117239437,16840145,1/20/2019,https://www.zillow.com/homedetails/8425-La-Jolla-Scenic-Dr-N-La-Jolla-CA-92037/16840145_zpid/
+House for rent,4,5,"6,580","$49,000 ",,,2605 Calle Del Oro, La Jolla, CA,32854427,-117248526,79570521,1/20/2019,https://www.zillow.com/homedetails/2605-Calle-Del-Oro-La-Jolla-CA-92037/79570521_zpid/
+House for rent,5,4.5,"4,200","$65,000 ",,,2273 Calle Tiara, La Jolla, CA,32824185,-117245216,16857786,1/20/2019,https://www.zillow.com/homedetails/2273-Calle-Tiara-La-Jolla-CA-92037/16857786_zpid/
+House for rent,6,6.5,"5,800","$68,000 ",,,5916 Via Zurita, La Jolla, CA,32821891,-117250401,16857928,1/20/2019,https://www.zillow.com/homedetails/5916-Via-Zurita-La-Jolla-CA-92037/16857928_zpid/
+House for rent,4,4.5,"3,437","$80,000 ",,,6672 Avenida Andorra, La Jolla, CA,32833041,-117253734,16851959,1/20/2019,https://www.zillow.com/homedetails/6672-Avenida-Andorra-La-Jolla-CA-92037/16851959_zpid/
+For Rent,0,,,"$1,495+",,,7529 Herschel Ave, La Jolla, CA,32841371,-117271245,1004670908,1/20/2019,"https://www.zillow.com/b/7529-Herschel-Ave-La-Jolla-CA/32.841371,-117.271245_ll/"
+For Rent,0,,,"$1,495+",,,7529 Herschel Ave, La Jolla, CA,32841371,-117271245,32.841371--117.271245,1/20/2019,"https://www.zillow.com/b/7529-Herschel-Ave-La-Jolla-CA/32.841371,-117.271245_ll/"
+Apartment for rent,1,1,500,"$1,645+",,,Casa Linda,,,32842455,-117275353,2091696078,1/20/2019,https://www.zillow.com/homedetails/7621-Eads-Ave-8XH0WQKHV-La-Jolla-CA-92037/2091696078_zpid/
+Apartment for rent,Studio,1,350,"$1,650+",,,Elan Beachcomber,,,32854311,-117255349,2091790369,1/20/2019,https://www.zillow.com/homedetails/8115-El-Paseo-Grande-MR1RVGTCG-La-Jolla-CA-92037/2091790369_zpid/
+For Rent,1,,,"$1,850+",,,8537 Villa La Jolla Dr, La Jolla, CA,32862749,-117234888,1001662784,1/20/2019,https://www.zillow.com/b/8537-villa-la-jolla-dr-la-jolla-ca-5Xkzfd/
+For Rent,1,,,"$1,850+",,,3116 Via Alicante, La Jolla, CA,32862749,-117234888,32.862749--117.234888,1/20/2019,"https://www.zillow.com/b/3116-Via-Alicante-LA-JOLLA-CA/32.862749,-117.234888_ll/"
+For Rent,1,,,"$1,920+",,,8666 Via Mallorca, La Jolla, CA,32863357,-117233833,32.863357--117.233833,1/20/2019,"https://www.zillow.com/b/8666-Via-Mallorca-LA-JOLLA-CA/32.863357,-117.233833_ll/"
+Solazzo Apartments Homes,1,,,"$2,020+",2,"$2,680+",8506 Villa La Jolla Dr, La Jolla, CA,32865872,-117235775,1001554478,1/20/2019,https://www.zillow.com/b/solazzo-apartments-homes-la-jolla-ca-5Xk5YK/
+For Rent,1,,,"$2,500+",,,8110 Camino Del Sol, La Jolla, CA,32854427,-117257204,2079484153,1/20/2019,"https://www.zillow.com/b/8110-Camino-Del-Sol-La-Jolla-CA/32.854427,-117.257204_ll/"
+POSITANO,1,,,"$2,500+",,,7411 Herschel Ave, La Jolla, CA,32839788,-117270742,32.839788--117.270742,1/20/2019,"https://www.zillow.com/b/POSITANO-LA-JOLLA-CA/32.839788,-117.270742_ll/"
+For Rent,2,,,"$2,795+",,,8638 Villa La Jolla Dr, La Jolla, CA,32866126,-117234359,32.866126--117.234359,1/20/2019,"https://www.zillow.com/b/8638-Villa-La-Jolla-Dr-La-Jolla-CA/32.866126,-117.234359_ll/"
+For Rent,2,,,"$2,850+",,,7811 Eads Ave, La Jolla, CA,32845008,-117276189,1001587818,1/20/2019,https://www.zillow.com/b/7811-eads-ave-la-jolla-ca-5XkMRj/
+For Rent,3,,,"$3,300+",,,8643 Via Mallorca, La Jolla, CA,32862336,-117231333,32.862336--117.231333,1/20/2019,"https://www.zillow.com/b/8643-Via-Mallorca-LA-JOLLA-CA/32.862336,-117.231333_ll/"
+For Rent,3,,,"$3,495+",,,3264 Caminito Eastbluff, La Jolla, CA,32858648,-117232166,1003998899,1/20/2019,https://www.zillow.com/b/3264-caminito-eastbluff-la-jolla-ca-5Y9rdS/
+220 Coast,2,,,"$3,500+",,,220 Coast Blvd, La Jolla, CA,32839776,-117281614,32.839776--117.281614,1/20/2019,"https://www.zillow.com/b/220-Coast-LA-JOLLA-CA/32.839776,-117.281614_ll/"
+For Rent,2,,,"$3,750+",3,"$3,500 ",2130 Vallecitos, La Jolla, CA,32854660,-117255918,32.85466--117.255918,1/20/2019,"https://www.zillow.com/b/2130-Vallecitos-LA-JOLLA-CA/32.85466,-117.255918_ll/"
+For Rent,2,,,"$3,800+",,,909 Coast Blvd, La Jolla, CA,32847585,-117276649,32.847585--117.276649,1/20/2019,"https://www.zillow.com/b/909-Coast-Blvd-LA-JOLLA-CA/32.847585,-117.276649_ll/"
+For Rent,2,,,"$3,995+",,,1039 Coast Blvd, La Jolla, CA,32848306,-117274695,32.848306--117.274695,1/20/2019,"https://www.zillow.com/b/1039-Coast-Blvd-LA-JOLLA-CA/32.848306,-117.274695_ll/"
